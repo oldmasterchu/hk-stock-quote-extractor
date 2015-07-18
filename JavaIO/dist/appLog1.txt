@@ -1,0 +1,202 @@
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-2-run()-00001 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-3-run()-01288 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-4-run()-01288 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-11-run()-02800 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-9-run()-01398 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-7-run()-00388 thread is starting to run.
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 thread is starting to run.
+[01-Jun-2015 14:27:35] : Stock-00001-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-2-run()-00001 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-02800-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-11-run()-02800 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-00388-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-7-run()-00388 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-02628-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-02628-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-4-run()-01288 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-00001-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-2-run()-00001 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-00001-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-2-run()-00001 not success in StockRowWorker run().
+[01-Jun-2015 14:27:35] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:35] : class com.omb.utility.StockRowWorker Thread-4-run()-01288 not success in StockRowWorker run().
+[01-Jun-2015 14:27:36] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:36] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:36] : Stock-00001-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:36] : class com.omb.utility.StockRowWorker Thread-2-run()-00001 not success in StockRowWorker run().
+[01-Jun-2015 14:27:36] : Stock-00001-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:36] : class com.omb.utility.StockRowWorker Thread-2-run()-00001 not success in StockRowWorker run().
+[01-Jun-2015 14:27:36] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:36] : class com.omb.utility.StockRowWorker Thread-3-run()-01288 not success in StockRowWorker run().
+[01-Jun-2015 14:27:36] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:36] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:36] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:36] : class com.omb.utility.StockRowWorker Thread-3-run()-01288 not success in StockRowWorker run().
+[01-Jun-2015 14:27:36] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:36] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:36] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:36] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:37] : Stock-00388-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:37] : class com.omb.utility.StockRowWorker Thread-7-run()-00388 not success in StockRowWorker run().
+[01-Jun-2015 14:27:37] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:37] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:37] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:37] : class com.omb.utility.StockRowWorker Thread-3-run()-01288 not success in StockRowWorker run().
+[01-Jun-2015 14:27:37] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:37] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:37] : Stock-00388-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:37] : class com.omb.utility.StockRowWorker Thread-7-run()-00388 not success in StockRowWorker run().
+[01-Jun-2015 14:27:37] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:37] : class com.omb.utility.StockRowWorker Thread-3-run()-01288 not success in StockRowWorker run().
+[01-Jun-2015 14:27:37] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:37] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:37] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:37] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:37] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:37] : class com.omb.utility.StockRowWorker Thread-3-run()-01288 not success in StockRowWorker run().
+[01-Jun-2015 14:27:38] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:38] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:38] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:38] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:38] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:38] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:38] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:38] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:38] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:38] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:38] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:38] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:38] : Stock-01398-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:38] : class com.omb.utility.StockRowWorker Thread-9-run()-01398 not success in StockRowWorker run().
+[01-Jun-2015 14:27:39] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:39] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:39] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:39] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:39] : Stock-02628-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:39] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 not success in StockRowWorker run().
+[01-Jun-2015 14:27:39] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:39] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:39] : Stock-02800-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:39] : class com.omb.utility.StockRowWorker Thread-11-run()-02800 not success in StockRowWorker run().
+[01-Jun-2015 14:27:39] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:39] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:39] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:39] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-01398-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-9-run()-01398 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-02628-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-02800-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-11-run()-02800 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-01398-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-9-run()-01398 not success in StockRowWorker run().
+[01-Jun-2015 14:27:40] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:40] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-01398-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-9-run()-01398 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-02628-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-02800-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-11-run()-02800 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-02628-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-00388-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-7-run()-00388 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:41] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:41] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:42] : Stock-02800-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:42] : class com.omb.utility.StockRowWorker Thread-11-run()-02800 not success in StockRowWorker run().
+[01-Jun-2015 14:27:42] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:42] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:42] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:42] : class com.omb.utility.StockRowWorker Thread-4-run()-01288 not success in StockRowWorker run().
+[01-Jun-2015 14:27:42] : Stock-03339-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:42] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 not success in StockRowWorker run().
+[01-Jun-2015 14:27:42] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:42] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:42] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:42] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:42] : Stock-01398-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:42] : class com.omb.utility.StockRowWorker Thread-9-run()-01398 not success in StockRowWorker run().
+[01-Jun-2015 14:27:42] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:42] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:42] : Stock-01398-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:42] : class com.omb.utility.StockRowWorker Thread-9-run()-01398 not success in StockRowWorker run().
+[01-Jun-2015 14:27:43] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:43] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:43] : Stock-00008-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:43] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 not success in StockRowWorker run().
+[01-Jun-2015 14:27:43] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:43] : class com.omb.utility.StockRowWorker Thread-4-run()-01288 not success in StockRowWorker run().
+[01-Jun-2015 14:27:43] : Stock-00880-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:43] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 not success in StockRowWorker run().
+[01-Jun-2015 14:27:43] : Stock-00992-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:43] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 not success in StockRowWorker run().
+[01-Jun-2015 14:27:43] : Stock-02628-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:43] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 not success in StockRowWorker run().
+[01-Jun-2015 14:27:43] : Stock-02628-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:43] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 not success in StockRowWorker run().
+[01-Jun-2015 14:27:43] : Stock-01288-updateInfo()-Exception empty String
+[01-Jun-2015 14:27:43] : class com.omb.utility.StockRowWorker Thread-3-run()-01288 not success in StockRowWorker run().
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-4-run()-01288 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-9-run()-01398 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-3-run()-01288 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-5-run()-00880 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-6-run()-00008 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-8-run()-00992 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-2-run()-00001 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-7-run()-00388 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-10-run()-02628 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-11-run()-02800 thread is starting to run.
+[10-Jul-2015 08:14:26] : class com.omb.utility.StockRowWorker Thread-12-run()-03339 thread is starting to run.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><application xmlns="http://www.omb.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.omb.com appConfig.xsd"><stocks><stock><code>1</code><bid>123.77</bid><share>1000</share></stock><stock><code>1288</code><bid>3.32</bid><share>2000</share></stock><stock><code>1288</code><bid>3.633</bid><share>8000</share></stock><stock><code>880</code><bid>17.986</bid></stock><stock><code>8</code><bid>3.15</bid></stock><stock><code>388</code><bid>127.18</bid></stock><stock><code>992</code><bid>4.57</bid></stock><stock><code>1398</code><bid>3.97</bid></stock><stock><code>2628</code><bid>26.85</bid></stock><stock><code>2800</code><bid>19.86</bid></stock><stock><code>3339</code><bid>2.41</bid><share>2000</share></stock></stocks>
+  
+
+
+
+  <updateFrequency>500</updateFrequency>
+  <appWindowWidth>830</appWindowWidth>
+  <blinkRate>50</blinkRate>
+  <blinkCount>13</blinkCount>
+</application>

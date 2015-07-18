@@ -1,0 +1,46 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.omb.com" xmlns="http://www.omb.com"
+	elementFormDefault="qualified">
+
+	<xs:element name="application">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="stocks">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="stock" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="code" minOccurs="1" maxOccurs="1">
+											<xs:simpleType>
+												<xs:restriction base="xs:positiveInteger" />
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="bid" default="0.0" minOccurs="0" maxOccurs="1">
+											<xs:simpleType>
+												<xs:restriction base="xs:double">
+													<xs:minInclusive value="0.0" />
+												</xs:restriction>
+											</xs:simpleType>
+										</xs:element>
+										<xs:element name="share" default="0" minOccurs="0" maxOccurs="1">
+											<xs:simpleType>
+												<xs:restriction base="xs:nonNegativeInteger" />
+											</xs:simpleType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="updateFrequency" type="xs:integer" default="1500" />
+				<xs:element name="appWindowWidth" type="xs:integer" default="800" />
+				<xs:element name="blinkRate" type="xs:integer" default="50" />
+				<xs:element name="blinkCount" type="xs:integer" default="13" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+
+</xs:schema>
