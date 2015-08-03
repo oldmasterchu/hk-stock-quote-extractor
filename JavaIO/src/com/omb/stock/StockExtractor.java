@@ -8,7 +8,7 @@ public class StockExtractor {
 		FieldCapturer [] capturers = { 	
 				new FieldCapturer("stock_name", new Delimiter("<div class=\"floatL f15\">\\s*(.*?)&nbsp;",""),1),
 				new FieldCapturer("last_trade",
-						new Delimiter("<span class='.+?'>([\\d|\\.]*?)</span></span></span></span></span></span>",""),1),
+						new Delimiter("<span class=\".+?\">([\\d|\\.]*?)</span></span></div></div></div>",""),1),
 				new FieldCapturer("change", new Delimiter("<span class='.+?'>(([\\d|\\.]*?)</span></span></span></div>|(N/A)</span></div></span>)",""),10),
 				new FieldCapturer("change_sign", new Delimiter("<span class=\"(.*?) bold\"><span",""),3),
 				new FieldCapturer("day_range", 
